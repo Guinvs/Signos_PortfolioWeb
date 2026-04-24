@@ -34,7 +34,7 @@ Abra o painel do XAMPP e inicie o módulo:
 
 Abra o navegador e acesse:
 
-http://localhost/Signos-PortfolioWeb/show_zodiac_sign.php
+http://localhost/Signos-PortfolioWEB/index.php
 
 ## 🧪 Testes
 
