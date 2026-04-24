@@ -58,5 +58,9 @@ http://localhost/Signos-PortfolioWeb/show_zodiac_sign.php
 * `Imagens/`
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/755942bc-3668-4475-97a1-1f2b146a8658" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e61a27f-a8e7-4251-936f-72e11925ef69" />
+
+
 
 Projeto simples para fins educacionais.
