@@ -1,2 +1,62 @@
-# Signos_PortfolioWeb
-Projeto desenvolvido para atividade curricular. 
+# Signos Portfolio Web
+
+Projeto desenvolvido para atividade curricular utilizando PHP.
+
+##  Como executar o projeto
+
+### 1. Instalar o XAMPP
+
+Baixe e instale o XAMPP:
+https://www.apachefriends.org/pt_br/index.html
+
+### 2. Clonar ou baixar o repositório
+
+Clone este repositório ou baixe os arquivos ZIP.
+
+### 3. Mover o projeto
+
+Coloque a pasta do projeto dentro do diretório:
+
+C:\xampp\htdocs
+
+Exemplo:
+C:\xampp\htdocs\Signos-PortfolioWeb
+
+### 4. Iniciar o servidor
+
+Abra o painel do XAMPP e inicie o módulo:
+
+* Apache
+
+(MySQL não é necessário para este projeto)
+
+### 5. Acessar no navegador
+
+Abra o navegador e acesse:
+
+http://localhost/Signos-PortfolioWeb/show_zodiac_sign.php
+
+## 🧪 Testes
+
+* Verificar se o arquivo `signos.xml` está sendo lido corretamente
+* Verificar se as imagens estão carregando
+* Testar a navegação entre as páginas
+
+## 🛠️ Tecnologias utilizadas
+
+* PHP
+* HTML
+* CSS
+* XML
+
+## 📁 Estrutura do projeto
+
+* `index.php`
+* `show_zodiac_sign.php`
+* `signos.xml`
+* `styles.css`
+* `Imagens/`
+
+---
+
+Projeto simples para fins educacionais.
